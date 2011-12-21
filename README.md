@@ -1,1 +1,1 @@
-http://githib.com/phpml <- The oficial project
+http://github.com/phpml <- The oficial project
